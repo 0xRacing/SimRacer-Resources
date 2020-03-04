@@ -16,6 +16,8 @@ Various tools, leagues, and resources for Sim Racing. Please be sure to put in a
 - Virtual Racing School
 - MoTec i2
 - ISpeed
+- [iRacing Series + Special Event Schedule(s)](http://schedule4i.racing/)
+- [iRacing Setups / Tunes](http://setups4i.racing/)
 
 # Helpful Sites
 - danlisa.com
